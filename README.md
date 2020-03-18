@@ -1,2 +1,2 @@
 # Author :krishna kakade
-*blog owner:krishna kakade
+* blog owner:krishna kakade
